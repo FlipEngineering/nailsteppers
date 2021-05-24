@@ -1,0 +1,31 @@
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8904
+StepSize: 0.00
+Initalize Ethernet
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+2 - 10
+3 - 11
+0 - 8
+1 - 9
+
+Channel Start DMX:0
+Added Channel:99568 to Settings Channelstick loop timer protection! to long! time:6386106
+tick loop timer protection! to long! time:5684792
+tick loop timer protection! to long! time:4983475
+tick loop timer protection! to long! time:4282159
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300017
+tick loop timer protection! to long! time:300015
+tick loop timer protection! to long! time:300014

@@ -1,0 +1,41 @@
+Stopping: 0 Dist Diff: 0.0000 
+Stopping: 1 Dist Diff: 0.0000 
+Stopping: 2 Dist Diff: 0.0000 
+Stopping: 3 Dist Diff: 0.0000 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 SpeedFac:0.003344 DistDiff:0.000000 
+id: 0, steps per second: 997, TSTEP: 12114
+id: 0, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 1, steps per second: 0, TSTEP: 0
+id: 1, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 2, steps per second: 0, TSTEP: 0
+id: 2, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 3, steps per second: 0, TSTEP: 0
+id: 3, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 0, steps per second: 1002, TSTEP: 12113
+id: 0, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 1, steps per second: 0, TSTEP: 0
+id: 1, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 2, steps per second: 0, TSTEP: 0
+id: 2, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 3, steps per second: 0, TSTEP: 0
+id: 3, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 0, steps per second: 1002, TSTEP: 12114
+id: 0, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 1, steps per second: 0, TSTEP: 0
+id: 1, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 2, steps per second: 0, TSTEP: 0
+id: 2, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 3, steps per second: 0, TSTEP: 0
+id: 3, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 0, steps per second: 1003, TSTEP: 12117
+id: 0, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 1, steps per second: 0, TSTEP: 0
+id: 1, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 2, steps per second: 0, TSTEP: 0
+id: 2, PWMCONF(): .00000000.00000101.00000100.11001000
+id: 3, steps per second: 0, TSTEP: 0
+id: 3, PWMCONF(): .00000000.00000101.00000100.11001000

@@ -1,0 +1,9 @@
+Current Direction: 1
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 490440
+Dir1: 490440 -Distance Dir1: 6130.50
+Dir2: 128 -Distance Dir2: 1.60
+Stall Counter: 2
+one_step_distance:(*100) 1.25
+one_rev_distance: 40
+total_steps_per_rev: 3200

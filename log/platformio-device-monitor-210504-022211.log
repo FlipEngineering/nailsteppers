@@ -1,0 +1,196 @@
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 228
+Dir1: 0 -Distance Dir1: 0.00
+Dir2: 228 -Distance Dir2: 1.14
+Stall Counter: 1
+one_step_distance:(*100) 0.50
+one_rev_distance: 32
+total_steps_per_rev: 6400
+Current Direction: 1
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 33121
+Dir1: 33121 -Distance Dir1: 165.60
+Dir2: 228 -Distance Dir2: 1.14
+Stall Counter: 2
+one_step_distance:(*100) 0.50
+one_rev_distance: 32
+total_steps_per_rev: 6400
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 33088
+Dir1: 33121 -Distance Dir1: 165.60
+Dir2: 33088 -Distance Dir2: 165.44
+Stall Counter: 3
+one_step_distance:(*100) 0.50
+one_rev_distance: 32
+total_steps_per_rev: 6400
+Finished Calibration!
+Diff:0.16
+CurrentDir: 0
+End - Scan Distance!
+PWM_FREQ: 1
+PWM_GRAD: 4
+PWM_AMP: 128
+TPWMTHRS: 0
+TCOOLTHRS: 1048575
+THIGH: 0
+IRUN:25 IHOLD:12 IHOLD_DELAY:0
+v_sense:1
+tbl:1 toff:2 HSTRT:0 HEND:0
+ chm:0
+ intpol:0
+ small_hys:0
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8272
+StepSize: 0.00
+Initalize Ethernet
+	MAC Address: 04:E9:E5:0B:55:DD 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start DMX:0
+tick loop timer protection! to long! time:9129759
+Full Loop Time:452Base:46 Step:2 Time Per Step:1.00 Artnet:404 STEPS:2 ARTNET FPS:27722 No Artnet Iters:59
+Full Loop Time:451Base:46 Step:1 Time Per Step:0.00 Artnet:404 STEPS:2 ARTNET FPS:15331 No Artnet Iters:32
+Full Loop Time:452Base:50 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:14934 No Artnet Iters:31
+Full Loop Time:450Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4 ARTNET FPS:30411 No Artnet Iters:64
+Full Loop Time:451Base:51 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:16407 No Artnet Iters:34
+Full Loop Time:455Base:44 Step:7 Time Per Step:1.00 Artnet:404 STEPS:4 ARTNET FPS:15487 No Artnet Iters:32
+Full Loop Time:452Base:52 Step:0 Time Per Step:0.00 Artnet:406 STEPS:5 ARTNET FPS:15961 No Artnet Iters:33
+Full Loop Time:454Base:44 Step:6 Time Per Step:1.00 Artnet:404 STEPS:4 ARTNET FPS:33287 No Artnet Iters:70
+Full Loop Time:453Base:50 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4 ARTNET FPS:17362 No Artnet Iters:36
+Full Loop Time:452Base:46 Step:2 Time Per Step:0.00 Artnet:404 STEPS:5 ARTNET FPS:12671 No Artnet Iters:26
+Full Loop Time:455Base:44 Step:6 Time Per Step:1.00 Artnet:405 STEPS:4 ARTNET FPS:30005 No Artnet Iters:63
+Full Loop Time:457Base:44 Step:5 Time Per Step:1.00 Artnet:408 STEPS:4 ARTNET FPS:15959 No Artnet Iters:33
+Full Loop Time:454Base:44 Step:5 Time Per Step:1.00 Artnet:405 STEPS:4 ARTNET FPS:15956 No Artnet Iters:33
+Full Loop Time:454Base:44 Step:6 Time Per Step:1.00 Artnet:404 STEPS:4 ARTNET FPS:15951 No Artnet Iters:33
+Full Loop Time:448Base:45 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3 ARTNET FPS:30404 No Artnet Iters:64
+Full Loop Time:453Base:49 Step:0 Time Per Step:0.00 Artnet:408 STEPS:3 ARTNET FPS:15387 No Artnet Iters:32
+Full Loop Time:452Base:44 Step:3 Time Per Step:1.00 Artnet:405 STEPS:2 ARTNET FPS:16288 No Artnet Iters:34
+Full Loop Time:452Base:45 Step:2 Time Per Step:2.00 Artnet:405 STEPS:1 ARTNET FPS:30572 No Artnet Iters:65
+Full Loop Time:451Base:44 Step:3 Time Per Step:3.00 Artnet:404 STEPS:1 ARTNET FPS:15701 No Artnet Iters:33
+Full Loop Time:451Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1 ARTNET FPS:15645 No Artnet Iters:33
+Full Loop Time:451Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1 ARTNET FPS:32244 No Artnet Iters:69
+Full Loop Time:450Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1 ARTNET FPS:15669 No Artnet Iters:33
+Full Loop Time:452Base:46 Step:2 Time Per Step:2.00 Artnet:404 STEPS:1 ARTNET FPS:15206 No Artnet Iters:32
+Full Loop Time:450Base:45 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1 ARTNET FPS:33417 No Artnet Iters:72
+Full Loop Time:453Base:46 Step:2 Time Per Step:2.00 Artnet:405 STEPS:1 ARTNET FPS:30895 No Artnet Iters:66
+Full Loop Time:452Base:46 Step:2 Time Per Step:2.00 Artnet:404 STEPS:1 ARTNET FPS:16223 No Artnet Iters:34
+Full Loop Time:450Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2 ARTNET FPS:15813 No Artnet Iters:33
+Full Loop Time:451Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:15852 No Artnet Iters:33
+Full Loop Time:452Base:44 Step:4 Time Per Step:1.00 Artnet:404 STEPS:3 ARTNET FPS:31279 No Artnet Iters:66
+Full Loop Time:452Base:46 Step:1 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:16814 No Artnet Iters:35
+Full Loop Time:452Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:14948 No Artnet Iters:31
+Full Loop Time:454Base:44 Step:4 Time Per Step:1.00 Artnet:406 STEPS:3 ARTNET FPS:16810 No Artnet Iters:35
+Full Loop Time:454Base:46 Step:3 Time Per Step:1.00 Artnet:405 STEPS:3 ARTNET FPS:29878 No Artnet Iters:63
+Full Loop Time:452Base:52 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:18687 No Artnet Iters:39
+Full Loop Time:452Base:44 Step:3 Time Per Step:1.00 Artnet:405 STEPS:3 ARTNET FPS:13081 No Artnet Iters:27
+Full Loop Time:449Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4 ARTNET FPS:15388 No Artnet Iters:32
+Full Loop Time:450Base:46 Step:0 Time Per Step:0.00 Artnet:407 STEPS:3 ARTNET FPS:31665 No Artnet Iters:67
+Full Loop Time:452Base:45 Step:1 Time Per Step:0.00 Artnet:406 STEPS:2 ARTNET FPS:16289 No Artnet Iters:34
+Full Loop Time:449Base:46 Step:0 Time Per Step:0.00 Artnet:405 STEPS:2 ARTNET FPS:14401 No Artnet Iters:30
+Full Loop Time:450Base:43 Step:2 Time Per Step:2.00 Artnet:405 STEPS:1 ARTNET FPS:31873 No Artnet Iters:68
+Overshooting
+Full Loop Time:452Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1 ARTNET FPS:16158 No Artnet Iters:34
+Full Loop Time:459Base:49 Step:2 Time Per Step:1.00 Artnet:408 STEPS:2 ARTNET FPS:15385 No Artnet Iters:32
+Full Loop Time:453Base:49 Step:0 Time Per Step:0.00 Artnet:407 STEPS:4 ARTNET FPS:31428 No Artnet Iters:66
+Full Loop Time:454Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:5 ARTNET FPS:15589 No Artnet Iters:32
+Full Loop Time:456Base:51 Step:1 Time Per Step:0.00 Artnet:404 STEPS:6 ARTNET FPS:16603 No Artnet Iters:34
+Full Loop Time:458Base:47 Step:5 Time Per Step:0.00 Artnet:406 STEPS:7 ARTNET FPS:29518 No Artnet Iters:61
+Full Loop Time:454Base:49 Step:0 Time Per Step:0.00 Artnet:406 STEPS:7 ARTNET FPS:15716 No Artnet Iters:32
+Full Loop Time:453Base:47 Step:1 Time Per Step:0.00 Artnet:405 STEPS:7 ARTNET FPS:16193 No Artnet Iters:33
+Full Loop Time:459Base:49 Step:2 Time Per Step:0.00 Artnet:408 STEPS:7 ARTNET FPS:14774 No Artnet Iters:30
+Full Loop Time:450Base:51 Step:0 Time Per Step:0.00 Artnet:405 STEPS:7 ARTNET FPS:31847 No Artnet Iters:66
+Full Loop Time:451Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:7 ARTNET FPS:15225 No Artnet Iters:31
+Full Loop Time:453Base:49 Step:0 Time Per Step:0.00 Artnet:406 STEPS:6 ARTNET FPS:15670 No Artnet Iters:32
+Full Loop Time:453Base:47 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4 ARTNET FPS:31612 No Artnet Iters:66
+Full Loop Time:454Base:48 Step:0 Time Per Step:0.00 Artnet:407 STEPS:4 ARTNET FPS:15993 No Artnet Iters:33
+Full Loop Time:455Base:48 Step:2 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:15504 No Artnet Iters:32
+Full Loop Time:452Base:46 Step:0 Time Per Step:0.00 Artnet:407 STEPS:3 ARTNET FPS:14502 No Artnet Iters:30
+Full Loop Time:451Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:2 ARTNET FPS:31131 No Artnet Iters:66
+Full Loop Time:452Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:1 ARTNET FPS:16648 No Artnet Iters:35
+Undershooting
+Full Loop Time:452Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1 ARTNET FPS:15714 No Artnet Iters:33
+Full Loop Time:453Base:49 Step:0 Time Per Step:0.00 Artnet:406 STEPS:3 ARTNET FPS:15377 No Artnet Iters:32
+Full Loop Time:453Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4 ARTNET FPS:32335 No Artnet Iters:68
+Full Loop Time:451Base:45 Step:2 Time Per Step:0.00 Artnet:404 STEPS:5 ARTNET FPS:15084 No Artnet Iters:31
+Full Loop Time:450Base:50 Step:0 Time Per Step:0.00 Artnet:405 STEPS:6 ARTNET FPS:16042 No Artnet Iters:33
+Full Loop Time:450Base:50 Step:0 Time Per Step:0.00 Artnet:406 STEPS:6 ARTNET FPS:16534 No Artnet Iters:34
+Full Loop Time:452Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6 ARTNET FPS:31623 No Artnet Iters:66
+Full Loop Time:457Base:47 Step:3 Time Per Step:0.00 Artnet:407 STEPS:6 ARTNET FPS:18889 No Artnet Iters:39
+Full Loop Time:454Base:44 Step:3 Time Per Step:0.00 Artnet:407 STEPS:6 ARTNET FPS:15108 No Artnet Iters:31
+Full Loop Time:452Base:50 Step:0 Time Per Step:0.00 Artnet:408 STEPS:6 ARTNET FPS:16527 No Artnet Iters:34
+Full Loop Time:454Base:49 Step:1 Time Per Step:0.00 Artnet:404 STEPS:6 ARTNET FPS:31150 No Artnet Iters:65
+Full Loop Time:451Base:47 Step:0 Time Per Step:0.00 Artnet:406 STEPS:6 ARTNET FPS:16046 No Artnet Iters:33
+Full Loop Time:451Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6 ARTNET FPS:16046 No Artnet Iters:33
+Full Loop Time:452Base:47 Step:1 Time Per Step:0.00 Artnet:404 STEPS:5 ARTNET FPS:15562 No Artnet Iters:32
+Full Loop Time:449Base:44 Step:1 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:31333 No Artnet Iters:66
+Full Loop Time:450Base:46 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:16728 No Artnet Iters:35
+Full Loop Time:448Base:46 Step:0 Time Per Step:0.00 Artnet:405 STEPS:2 ARTNET FPS:14815 No Artnet Iters:31
+Full Loop Time:449Base:44 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1 ARTNET FPS:16613 No Artnet Iters:35
+Full Loop Time:451Base:46 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1 ARTNET FPS:17467 No Artnet Iters:37
+Full Loop Time:452Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1 ARTNET FPS:14333 No Artnet Iters:30
+Full Loop Time:452Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1 ARTNET FPS:31505 No Artnet Iters:67
+Full Loop Time:452Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1 ARTNET FPS:14826 No Artnet Iters:31
+Full Loop Time:449Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2 ARTNET FPS:15806 No Artnet Iters:33
+Full Loop Time:449Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:2 ARTNET FPS:31117 No Artnet Iters:66
+Full Loop Time:449Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3 ARTNET FPS:15823 No Artnet Iters:33
+Full Loop Time:452Base:46 Step:1 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:14938 No Artnet Iters:31
+Full Loop Time:453Base:45 Step:4 Time Per Step:1.00 Artnet:404 STEPS:3 ARTNET FPS:32690 No Artnet Iters:69
+Full Loop Time:449Base:50 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4 ARTNET FPS:15415 No Artnet Iters:32
+Full Loop Time:452Base:51 Step:0 Time Per Step:0.00 Artnet:404 STEPS:5 ARTNET FPS:15944 No Artnet Iters:33
+Full Loop Time:450Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:15956 No Artnet Iters:33
+Full Loop Time:455Base:46 Step:4 Time Per Step:1.00 Artnet:405 STEPS:4 ARTNET FPS:28601 No Artnet Iters:60
+Full Loop Time:454Base:44 Step:5 Time Per Step:1.00 Artnet:405 STEPS:4 ARTNET FPS:15952 No Artnet Iters:33
+Full Loop Time:454Base:44 Step:6 Time Per Step:1.00 Artnet:404 STEPS:4 ARTNET FPS:15010 No Artnet Iters:31
+Full Loop Time:451Base:50 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:31402 No Artnet Iters:66
+Full Loop Time:456Base:46 Step:5 Time Per Step:1.00 Artnet:405 STEPS:4 ARTNET FPS:15485 No Artnet Iters:32
+Full Loop Time:454Base:47 Step:3 Time Per Step:0.00 Artnet:404 STEPS:4 ARTNET FPS:15946 No Artnet Iters:33
+Full Loop Time:454Base:45 Step:5 Time Per Step:1.00 Artnet:404 STEPS:4 ARTNET FPS:15952 No Artnet Iters:33
+Full Loop Time:450Base:44 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4 ARTNET FPS:32315 No Artnet Iters:68
+Full Loop Time:451Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4 ARTNET FPS:15444 No Artnet Iters:32
+Full Loop Time:452Base:47 Step:0 Time Per Step:0.00 Artnet:406 STEPS:3 ARTNET FPS:15429 No Artnet Iters:32
+Full Loop Time:452Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:14949 No Artnet Iters:31
+Full Loop Time:453Base:44 Step:5 Time Per Step:2.00 Artnet:404 STEPS:2 ARTNET FPS:31203 No Artnet Iters:66
+Full Loop Time:452Base:46 Step:2 Time Per Step:1.00 Artnet:404 STEPS:2 ARTNET FPS:14873 No Artnet Iters:31
+Full Loop Time:456Base:45 Step:2 Time Per Step:2.00 Artnet:409 STEPS:1 ARTNET FPS:19465 No Artnet Iters:41
+Full Loop Time:452Base:47 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1 ARTNET FPS:15200 No Artnet Iters:32
+Full Loop Time:453Base:45 Step:1 Time Per Step:1.00 Artnet:407 STEPS:1 ARTNET FPS:15689 No Artnet Iters:33
+Overshooting
+Full Loop Time:453Base:48 Step:1 Time Per Step:0.00 Artnet:404 STEPS:2 ARTNET FPS:16223 No Artnet Iters:34
+Full Loop Time:450Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2 ARTNET FPS:32557 No Artnet Iters:69
+Full Loop Time:454Base:47 Step:1 Time Per Step:0.00 Artnet:406 STEPS:2 ARTNET FPS:13986 No Artnet Iters:29
+Full Loop Time:455Base:51 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3 ARTNET FPS:18249 No Artnet Iters:38
+Full Loop Time:458Base:46 Step:6 Time Per Step:1.00 Artnet:406 STEPS:4 ARTNET FPS:28243 No Artnet Iters:59
+Full Loop Time:451Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:5 ARTNET FPS:15578 No Artnet Iters:32
+Full Loop Time:454Base:50 Step:0 Time Per Step:0.00 Artnet:406 STEPS:6 ARTNET FPS:15632 No Artnet Iters:32
+Full Loop Time:454Base:48 Step:1 Time Per Step:0.00 Artnet:405 STEPS:6 ARTNET FPS:15677 No Artnet Iters:32
+Full Loop Time:457Base:48 Step:3 Time Per Step:0.00 Artnet:406 STEPS:6 ARTNET FPS:30888 No Artnet Iters:64
+Full Loop Time:455Base:49 Step:2 Time Per Step:0.00 Artnet:404 STEPS:7 ARTNET FPS:16159 No Artnet Iters:33
+Full Loop Time:455Base:50 Step:0 Time Per Step:0.00 Artnet:406 STEPS:7 ARTNET FPS:16202 No Artnet Iters:33
+Full Loop Time:454Base:51 Step:0 Time Per Step:0.00 Artnet:404 STEPS:8 ARTNET FPS:15774 No Artnet Iters:32
+Full Loop Time:458Base:49 Step:1 Time Per Step:0.00 Artnet:408 STEPS:9 ARTNET FPS:31129 No Artnet Iters:64
+Full Loop Time:454Base:51 Step:0 Time Per Step:0.00 Artnet:407 STEPS:9 ARTNET FPS:15817 No Artnet Iters:32
+Full Loop Time:461Base:49 Step:3 Time Per Step:0.00 Artnet:409 STEPS:9 ARTNET FPS:15858 No Artnet Iters:32
+Full Loop Time:453Base:50 Step:0 Time Per Step:0.00 Artnet:404 STEPS:9 ARTNET FPS:31234 No Artnet Iters:64
+Full Loop Time:458Base:48 Step:3 Time Per Step:0.00 Artnet:407 STEPS:9 ARTNET FPS:15869 No Artnet Iters:32
+Full Loop Time:454Base:50 Step:0 Time Per Step:0.00 Artnet:405 STEPS:10 ARTNET FPS:17318 No Artnet Iters:35
+Full Loop Time:455Base:52 Step:0 Time Per Step:0.00 Artnet:406 STEPS:10 ARTNET FPS:16367 No Artnet Iters:33
+Full Loop Time:454Base:52 Step:0 Time Per Step:0.00 Artnet:406 STEPS:9 ARTNET FPS:31743 No Artnet Iters:65
+Full Loop Time:454Base:50 Step:0 Time Per Step:0.00 Artnet:405 STEPS:9 ARTNET FPS:16351 No Artnet Iters:33
+Full Loop Time:456Base:51 Step:0 Time Per Step:0.00 Artnet:408 STEPS:9 ARTNET FPS:13458 No Artnet Iters:27
+Full Loop Time:453Base:45 Step:4 Time Per Step:0.00 Artnet:404 STEPS:9 ARTNET FPS:14833 No Artnet Iters:30
+Full Loop Time:452Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:8 ARTNET FPS:31954 No Artnet Iters:66
+Full Loop Time:451Base:46 Step:1 Time Per Step:0.00 Artnet:404 STEPS:7 ARTNET FPS:15647 No Artnet Iters:32
+Full Loop Time:451Base:44 Step:0 Time Per Step:0.00 Artnet:407 STEPS:6 ARTNET FPS:15093 No Artnet Iters:31
+Full Loop Time:451Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4 ARTNET FPS:31361 No Artnet Iters:66
+Full Loop Time:448Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3 ARTNET FPS:15814 No Artnet Iters:33
+Full Loop Time:451Base:44 Step:3 Time Per Step:1.00 Artnet:404 STEPS:2 ARTNET FPS:16672 No Artnet Iters:35
+Full Loop Time:448Base:44 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1 ARTNET FPS:14764 No Artnet Iters:31

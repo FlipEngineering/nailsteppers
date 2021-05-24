@@ -1,0 +1,44 @@
+Stopping: 0 Dist Diff: 0.0000 
+Stopping: 1 Dist Diff: 0.0000 
+Stopping: 2 Dist Diff: 0.0000 
+Stopping: 3 Dist Diff: 0.0000 
+Stopped 0 
+Id: 0 LOST STEPS:0
+Stopped 1 
+Id: 1 LOST STEPS:0
+Stopped 2 
+Id: 2 LOST STEPS:0
+Stopped 3 
+Id: 3 LOST STEPS:0
+Go 0 SpeedFac:0.002704 DistDiff:-168.000000 
+Go 1 SpeedFac:0.002580 DistDiff:-168.000000 
+Stopping: 0 Dist Diff: -0.1125 
+Stopped 0 
+Id: 0 LOST STEPS:0
+Stopping: 1 Dist Diff: -0.1250 
+Stopped 1 
+Id: 1 LOST STEPS:0
+Go 2 SpeedFac:0.002776 DistDiff:-168.000000 
+Go 3 SpeedFac:0.002660 DistDiff:-168.000000 
+Stopping: 2 Dist Diff: -0.1125 
+Stopped 2 
+Id: 2 LOST STEPS:0
+Stopping: 3 Dist Diff: -0.1250 
+Stopped 3 
+Id: 3 LOST STEPS:0
+Go 0 SpeedFac:-0.002848 DistDiff:167.887500 
+Go 1 SpeedFac:-0.003188 DistDiff:167.875000 
+Go 2 SpeedFac:-0.003528 DistDiff:167.887500 
+Go 3 SpeedFac:-0.003884 DistDiff:167.875000 
+Stopping: 0 Dist Diff: 0.1250 
+Stopping: 1 Dist Diff: 0.1250 
+Stopping: 2 Dist Diff: 0.1250 
+Stopping: 3 Dist Diff: 0.1250 
+Stopped 0 
+Id: 0 LOST STEPS:0
+Stopped 1 
+Id: 1 LOST STEPS:0
+Stopped 2 
+Id: 2 LOST STEPS:0
+Stopped 3 
+Id: 3 LOST STEPS:0

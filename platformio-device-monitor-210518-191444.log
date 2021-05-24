@@ -1,0 +1,663 @@
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1500 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: -0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1500 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1500 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1500 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1375 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 3 Dist Diff: -0.1375 
+Sto 3 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 3 
+Still Stopping 0 
+Starting Stopping: 1 Dist Diff: -0.1125 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1250 
+Sto 0 s1:1 s2:1 
+Still Stopping 0 
+Starting Stopping: 1 Dist Diff: 0.1250 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Still Stopping 0 
+Starting Stopping: 2 Dist Diff: -0.1375 
+Sto 2 s1:1 s2:1 
+Still Stopping 0 
+Starting Stopping: 1 Dist Diff: -0.1125 
+Sto 1 s1:1 s2:1 
+Still Stopping 2 
+Starting Stopping: 3 Dist Diff: -0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1500 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1375 
+Sto 1 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Starting Stopping: 3 Dist Diff: -0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1375 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1375 
+Sto 1 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 0 
+Still Stopping 1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1500 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1375 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1375 
+Sto 1 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 0 
+Still Stopping 1 
+Starting Stopping: 2 Dist Diff: -0.1125 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 2 Dist Diff: 0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: 0.1250 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1250 
+Sto 1 s1:1 s2:1 
+Still Stopping 2 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1375 
+Sto 3 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1250 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1375 
+Sto 1 s1:1 s2:1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1500 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 3 Dist Diff: -0.1500 
+Sto 3 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1250 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1375 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 1 Dist Diff: -0.1250 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1375 
+Sto 3 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1250 
+Sto 0 s1:1 s2:1 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 2 Dist Diff: -0.1375 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1250 
+Sto 1 s1:1 s2:1 
+Still Stopping 2 
+Starting Stopping: 3 Dist Diff: -0.1125 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1375 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Starting Stopping: 1 Dist Diff: 0.1250 
+Sto 1 s1:1 s2:1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 1 Dist Diff: -0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1500 
+Sto 3 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1375 
+Sto 0 s1:1 s2:1 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Still Stopping 3 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1250 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 2 Dist Diff: -0.1500 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: -0.1250 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: -0.1250 
+Sto 1 s1:1 s2:1 
+Still Stopping 2 
+Starting Stopping: 3 Dist Diff: -0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Starting Stopping: 0 Dist Diff: 0.1250 
+Sto 0 s1:1 s2:1 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: -0.1250 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: -0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Starting Stopping: 1 Dist Diff: -0.1250 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: -0.1250 
+Sto 2 s1:1 s2:1 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 
+Go 1 
+Go 2 
+Go 3 
+Starting Stopping: 0 Dist Diff: 0.1375 
+Sto 0 s1:1 s2:1 
+Starting Stopping: 1 Dist Diff: 0.1375 
+Sto 1 s1:1 s2:1 
+Starting Stopping: 2 Dist Diff: 0.1250 
+Sto 2 s1:1 s2:1 
+Starting Stopping: 3 Dist Diff: 0.1250 
+Sto 3 s1:1 s2:1 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Still Stopping 0 
+Still Stopping 1 
+Still Stopping 2 
+Still Stopping 3 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 

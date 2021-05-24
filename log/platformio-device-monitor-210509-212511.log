@@ -1,0 +1,15 @@
+MaxPos: 15840
+StepSize: 0.00
+MaxPos: 15840
+StepSize: 0.00
+MaxPos: 15840
+StepSize: 0.00
+MaxPos: 15840
+StepSize: 0.00
+Initalize Ethernet
+	MAC Address: 04:E9:E5:0C:FC:8D 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start DMX:0

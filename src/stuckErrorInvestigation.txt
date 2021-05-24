@@ -1,0 +1,44 @@
+
+id: 0, adr: 111, cs_a: 25, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1638400, stall: 0, stst: 0
+id: 1, adr: 111, cs_a: 25, fsact: 0, ola: 1, olb 1, ot: 0, otpw: 0, s2ga: 0, s2gb: 1, sg_res: 0, sr: 1880686592, stall: 0, stst: 0
+
+Left bit: 31, most right bit 0
+
+
+Test Settings: 
+driver settings from config file (111)
+microsteps: 8
+rms_current: 800
+
+
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00011001.00000000.00000000
+id: 0, adr: 111, cs_a: 25, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1638400, stall: 0, stst: 0
+Stopping: 1 Dist Diff: -70.7500
+Stopped 1
+Id: 1 LOST STEPS:0
+id: 1, sr: .01101000.00011001.00000000.00000000
+id: 1, adr: 111, cs_a: 25, fsact: 0, ola: 1, olb 1, ot: 0, otpw: 0, s2ga: 1, s2gb: 0, sg_res: 0, sr: 1746468864, stall: 0, stst: 0
+
+
+Test Settings: 
+driver settings from config file (111)
+microsteps: 8
+rms_current: 1000
+
+Go 0 SpeedFac:0.002752 DistDiff:-167.875000 
+Go 1 SpeedFac:0.002552 DistDiff:-167.875000 
+Stopping: 0 Dist Diff: -0.1250 
+Stopped 0
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopping: 1 Dist Diff: -63.0000
+Stopped 1
+Id: 1 LOST STEPS:0
+id: 1, sr: .01110000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 1, olb 1, ot: 0, otpw: 0, s2ga: 0, s2gb: 1, sg_res: 0, sr: 1880162304, stall: 0, stst: 0
+
+,....... found error: 
+
+Tick loop min timer protection was triggered,........ set it down to 100us from 250us and now it seems to work. lol

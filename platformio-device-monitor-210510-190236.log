@@ -1,0 +1,522 @@
+DMX Settings Init: 1 
+DMX Settings Always: 1 
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at leaMaxPos: 13250
+StepSize: 0.00
+[DMX-Setting] [DRIVER] [RUN] - Done 
+tick loop timer protection! to long! time:15206677
+tick loop timer protection! to long! time:15206687
+tick loop timer protection! to long! time:15206694
+tick loop timer protection! to long! time:15206702
+Overshooting
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 250.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:248 
+MaxPos: 13144
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 248.000000 got new:247 
+MaxPos: 13091
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 247.000000 got new:246 
+MaxPos: 13038
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 246.000000 got new:245 
+MaxPos: 12985
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 245.000000 got new:242 
+MaxPos: 12826
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 242.000000 got new:236 
+MaxPos: 12508
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 236.000000 got new:229 
+MaxPos: 12137
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 229.000000 got new:222 
+MaxPos: 11766
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 222.000000 got new:217 
+MaxPos: 11501
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 217.000000 got new:210 
+MaxPos: 11130
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 210.000000 got new:204 
+MaxPos: 10812
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 204.000000 got new:198 
+MaxPos: 10494
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 198.000000 got new:191 
+MaxPos: 10123
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 191.000000 got new:178 
+MaxPos: 9434
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 178.000000 got new:168 
+MaxPos: 8904
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 168.000000 got new:145 
+MaxPos: 7685
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 145.000000 got new:126 
+MaxPos: 6678
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 126.000000 got new:117 
+MaxPos: 6201
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 117.000000 got new:106 
+MaxPos: 5618
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 106.000000 got new:95 
+MaxPos: 5035
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 95.000000 got new:87 
+MaxPos: 4611
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 87.000000 got new:77 
+MaxPos: 4081
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 77.000000 got new:70 
+MaxPos: 3710
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 70.000000 got new:68 
+MaxPos: 3604
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 68.000000 got new:66 
+MaxPos: 3498
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 66.000000 got new:63 
+MaxPos: 3339
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 63.000000 got new:54 
+MaxPos: 2862
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 54.000000 got new:50 
+MaxPos: 2650
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 50.000000 got new:48 
+MaxPos: 2544
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 48.000000 got new:45 
+MaxPos: 2385
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 45.000000 got new:42 
+MaxPos: 2226
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 42.000000 got new:39 
+MaxPos: 2067
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 39.000000 got new:34 
+MaxPos: 1802
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 34.000000 got new:33 
+MaxPos: 1749
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 33.000000 got new:31 
+MaxPos: 1643
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 31.000000 got new:29 
+MaxPos: 1537
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 29.000000 got new:30 
+MaxPos: 1590
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 30.000000 got new:31 
+MaxPos: 1643
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 31.000000 got new:32 
+MaxPos: 1696
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 32.000000 got new:33 
+MaxPos: 1749
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 33.000000 got new:36 
+MaxPos: 1908
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 36.000000 got new:37 
+MaxPos: 1961
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 37.000000 got new:38 
+MaxPos: 2014
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 38.000000 got new:40 
+MaxPos: 2120
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 40.000000 got new:43 
+MaxPos: 2279
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 43.000000 got new:48 
+MaxPos: 2544
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 48.000000 got new:57 
+MaxPos: 3021
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 57.000000 got new:69 
+MaxPos: 3657
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 69.000000 got new:78 
+MaxPos: 4134
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 78.000000 got new:87 
+MaxPos: 4611
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 87.000000 got new:102 
+MaxPos: 5406
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 102.000000 got new:116 
+MaxPos: 6148
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 116.000000 got new:124 
+MaxPos: 6572
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 124.000000 got new:129 
+MaxPos: 6837
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 129.000000 got new:131 
+MaxPos: 6943
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 131.000000 got new:138 
+MaxPos: 7314
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 138.000000 got new:148 
+MaxPos: 7844
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 148.000000 got new:154 
+MaxPos: 8162
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 154.000000 got new:163 
+MaxPos: 8639
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 163.000000 got new:170 
+MaxPos: 9010
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 170.000000 got new:180 
+MaxPos: 9540
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 180.000000 got new:191 
+MaxPos: 10123
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 191.000000 got new:203 
+MaxPos: 10759
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 203.000000 got new:207 
+MaxPos: 10971
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 207.000000 got new:211 
+MaxPos: 11183
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 211.000000 got new:214 
+MaxPos: 11342
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 214.000000 got new:217 
+MaxPos: 11501
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 217.000000 got new:219 
+MaxPos: 11607
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 219.000000 got new:226 
+MaxPos: 11978
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 226.000000 got new:231 
+MaxPos: 12243
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 231.000000 got new:235 
+MaxPos: 12455
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 235.000000 got new:238 
+MaxPos: 12614
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 238.000000 got new:239 
+MaxPos: 12667
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 239.000000 got new:240 
+MaxPos: 12720
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 240.000000 got new:241 
+MaxPos: 12773
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 241.000000 got new:242 
+MaxPos: 12826
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 242.000000 got new:243 
+MaxPos: 12879
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 243.000000 got new:244 
+MaxPos: 12932
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 244.000000 got new:245 
+MaxPos: 12985
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 245.000000 got new:246 
+MaxPos: 13038
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 246.000000 got new:247 
+MaxPos: 13091
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 247.000000 got new:248 
+MaxPos: 13144
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 248.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:250 
+MaxPos: 13250
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 250.000000 got new:251 
+MaxPos: 13303
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 251.000000 got new:252 
+MaxPos: 13356
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 252.000000 got new:253 
+MaxPos: 13409
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 253.000000 got new:252 
+MaxPos: 13356
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 252.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:246 
+MaxPos: 13038
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 246.000000 got new:242 
+MaxPos: 12826
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 242.000000 got new:232 
+MaxPos: 12296
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 232.000000 got new:228 
+MaxPos: 12084
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 228.000000 got new:223 
+MaxPos: 11819
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 223.000000 got new:214 
+MaxPos: 11342
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 214.000000 got new:209 
+MaxPos: 11077
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 209.000000 got new:203 
+MaxPos: 10759
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 203.000000 got new:198 
+MaxPos: 10494
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 198.000000 got new:190 
+MaxPos: 10070
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 190.000000 got new:187 
+MaxPos: 9911
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 187.000000 got new:184 
+MaxPos: 9752
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 184.000000 got new:173 
+MaxPos: 9169
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 173.000000 got new:168 
+MaxPos: 8904
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 168.000000 got new:166 
+MaxPos: 8798
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 166.000000 got new:168 
+MaxPos: 8904
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 168.000000 got new:170 
+MaxPos: 9010
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 170.000000 got new:177 
+MaxPos: 9381
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 177.000000 got new:185 
+MaxPos: 9805
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 185.000000 got new:196 
+MaxPos: 10388
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 196.000000 got new:208 
+MaxPos: 11024
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 208.000000 got new:224 
+MaxPos: 11872
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 224.000000 got new:226 
+MaxPos: 11978
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 226.000000 got new:235 
+MaxPos: 12455
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 235.000000 got new:254 
+MaxPos: 13462
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 254.000000 got new:255 
+MaxPos: 13515
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 255.000000 got new:252 
+MaxPos: 13356
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 252.000000 got new:229 
+MaxPos: 12137
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 229.000000 got new:221 
+MaxPos: 11713
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 221.000000 got new:211 
+MaxPos: 11183
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 211.000000 got new:204 
+MaxPos: 10812
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 204.000000 got new:184 
+MaxPos: 9752
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 184.000000 got new:180 
+MaxPos: 9540
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 180.000000 got new:175 
+MaxPos: 9275
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 175.000000 got new:170 
+MaxPos: 9010
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 170.000000 got new:173 
+MaxPos: 9169
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 173.000000 got new:177 
+MaxPos: 9381
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 177.000000 got new:190 
+MaxPos: 10070
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 190.000000 got new:199 
+MaxPos: 10547
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 199.000000 got new:209 
+MaxPos: 11077
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 209.000000 got new:227 
+MaxPos: 12031
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 227.000000 got new:240 
+MaxPos: 12720
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 240.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:255 
+MaxPos: 13515
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 255.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:242 
+MaxPos: 12826
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 242.000000 got new:238 
+MaxPos: 12614
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 238.000000 got new:227 
+MaxPos: 12031
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 227.000000 got new:226 
+MaxPos: 11978
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 226.000000 got new:221 
+MaxPos: 11713
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 221.000000 got new:211 
+MaxPos: 11183
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 211.000000 got new:209 
+MaxPos: 11077
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 209.000000 got new:203 
+MaxPos: 10759
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 203.000000 got new:201 
+MaxPos: 10653
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 201.000000 got new:197 
+MaxPos: 10441
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 197.000000 got new:196 
+MaxPos: 10388
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 196.000000 got new:198 
+MaxPos: 10494
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 198.000000 got new:199 
+MaxPos: 10547
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 199.000000 got new:201 
+MaxPos: 10653
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 201.000000 got new:207 
+MaxPos: 10971
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 207.000000 got new:218 
+MaxPos: 11554
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 218.000000 got new:226 
+MaxPos: 11978
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 226.000000 got new:233 
+MaxPos: 12349
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 233.000000 got new:240 
+MaxPos: 12720
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 240.000000 got new:242 
+MaxPos: 12826
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 242.000000 got new:247 
+MaxPos: 13091
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 247.000000 got new:248 
+MaxPos: 13144
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 248.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:251 
+MaxPos: 13303
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 251.000000 got new:252 
+MaxPos: 13356
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 252.000000 got new:254 
+MaxPos: 13462
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 254.000000 got new:255 
+MaxPos: 13515
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 255.000000 got new:254 
+MaxPos: 13462
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 254.000000 got new:253 
+MaxPos: 13409
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 253.000000 got new:252 
+MaxPos: 13356
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 252.000000 got new:250 
+MaxPos: 13250
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 250.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:248 
+MaxPos: 13144
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 248.000000 got new:249 
+MaxPos: 13197
+StepSize: 0.00
+[DMX-Setting] [DISTANCE] for Stepper: 3 is now 249.000000 got new:250 
+MaxPos: 13250
+StepSize: 0.00

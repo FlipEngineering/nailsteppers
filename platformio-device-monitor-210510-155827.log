@@ -1,0 +1,68 @@
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+8 - 16
+9 - 17
+10 - 18
+11 - 19
+3 - 11
+1 - 9
+0 - 8
+4 - 12
+5 - 13
+6 - 14
+7 - 15
+12 - 20
+13 - 21
+14 - 22
+15 - 23
+2 - 10
+DMX Settings Init: 1 
+DMX Settings Always: 0 
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Stepper Setup Begin
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 0
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 0
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 0
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 0
+StepSize: 0.00
+Stepper setup end
+Channel Start DMX:0
+tick loop timer protection! to long! time:2805948
+tick loop timer protection! to long! time:2104614
+tick loop timer protection! to long! time:1403284
+tick loop timer protection! to long! time:701959

@@ -1,0 +1,47 @@
+Go 0 SpeedFac:0.002716 DistDiff:-168.000000 
+Go 1 SpeedFac:0.002576 DistDiff:-168.000000 
+Stopping: 0 Dist Diff: -0.1250 
+Stopped 0 
+Id: 0 LOST STEPS:0
+Stopping: 1 Dist Diff: -0.1375 
+Stopped 1 
+Id: 1 LOST STEPS:0
+Go 2 SpeedFac:0.002804 DistDiff:-168.000000 
+Go 3 SpeedFac:0.002640 DistDiff:-168.000000 
+Stopping: 2 Dist Diff: -0.1250 
+Stopped 2 
+Id: 2 LOST STEPS:0
+Stopping: 3 Dist Diff: -0.1250 
+Stopped 3 
+Id: 3 LOST STEPS:0
+Go 0 SpeedFac:-0.002844 DistDiff:167.875000 
+Go 1 SpeedFac:-0.003204 DistDiff:167.862500 
+Go 2 SpeedFac:-0.003556 DistDiff:167.875000 
+Go 3 SpeedFac:-0.003924 DistDiff:167.875000 
+Stopping: 0 Dist Diff: 0.1250 
+Stopping: 1 Dist Diff: 0.1250 
+Stopping: 2 Dist Diff: 0.1125 
+Stopping: 3 Dist Diff: 0.1250 
+Stopped 0 
+Id: 0 LOST STEPS:0
+Stopped 1 
+Id: 1 LOST STEPS:0
+Stopped 2 
+Id: 2 LOST STEPS:0
+tick loop timer protection! to long! time:3759
+Stopped 3 
+Id: 3 LOST STEPS:0
+tick loop timer protection! to long! time:5047
+tick loop timer protection! to long! time:3981
+tick loop timer protection! to long! time:5048
+tick loop timer protection! to long! time:5034
+tick loop timer protection! to long! time:5025
+tick loop timer protection! to long! time:5020
+tick loop timer protection! to long! time:5057
+tick loop timer protection! to long! time:5056
+tick loop timer protection! to long! time:5057
+tick loop timer protection! to long! time:5058
+tick loop timer protection! to long! time:5057
+tick loop timer protection! to long! time:5058
+tick loop timer protection! to long! time:5057
+tick loop timer protection! to long! time:5057

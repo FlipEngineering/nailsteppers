@@ -1,0 +1,27 @@
+Controller ID: 3 
+Initalize Ethernet
+Channel Start: 0	MAC Address: 04:E9:E5:0B:56:D5 
+	MAC Address int: 4:233:229:11:86:213 
+	IP Address: 2.0.0.13 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 96 
+8 - 112
+9 - 113
+10 - 114
+11 - 115
+3 - 107
+1 - 105
+0 - 104
+4 - 108
+5 - 109
+6 - 110
+7 - 111
+12 - 116
+13 - 117
+14 - 118
+15 - 119
+2 - 106
+Starting looking for a DMX input:

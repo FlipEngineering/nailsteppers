@@ -1,0 +1,165 @@
+Stopping: 0 Dist Diff: 0.0000 
+Stopping: 1 Dist Diff: 0.0000 
+Stopping: 2 Dist Diff: 0.0000 
+Stopping: 3 Dist Diff: 0.0000 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Go 0 SpeedFac:0.000961 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 0, RPM: 1.1536
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 8144, RPM: 251.3893
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 17768, RPM: 286.9490
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 21473, RPM: 371.9478
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 27245, RPM: 448.5420
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 32117, RPM: 508.3818
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+[CONTINUES] id: 0, steps per second: 21106, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Go 0 SpeedFac:0.071290 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 8351, RPM: 218.2467
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 14353, RPM: 149.3797
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 6349, RPM: 26.7887
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+Go 0 SpeedFac:0.022400 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 962, RPM: 110.6706
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 13205, RPM: 290.9957
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 13147, RPM: 49.2561
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+Go 0 SpeedFac:0.001099 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 5530, RPM: 414.4289
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+[CONTINUES] id: 0, steps per second: 9076, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Go 0 SpeedFac:0.000839 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 4213, RPM: 156.3928
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+[CONTINUES] id: 0, steps per second: 9014, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Go 0 SpeedFac:0.104295 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 12005, RPM: 406.5736
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+Go 0 SpeedFac:0.021332 DistDiff:0.000000 
+[CONTINUES] id: 0, steps per second: 3844, RPM: 38.9837
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 5753, RPM: 134.4015
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 10963, RPM: 221.6709
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 16224, RPM: 263.6759
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 18301, RPM: 283.7079
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 18786, RPM: 272.0073
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 17192, RPM: 248.2948
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 13223, RPM: 135.9762
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+Stopping: 0 Dist Diff: 0.0000 
+Stopped 0 
+[CONTINUES] id: 0, steps per second: 3191, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 0, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 1, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 2, steps per second: 0, RPM: 0.0000
+[CONTINUES] id: 3, steps per second: 0, RPM: 0.0000

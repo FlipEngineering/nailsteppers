@@ -1,0 +1,117 @@
+tick loop timer protection! to long! time:805782
+Stopping: 0 Dist Diff: 0.0000 
+tick loop timer protection! to long! time:604539
+Stopping: 1 Dist Diff: 0.0000 
+tick loop timer protection! to long! time:403295
+Stopping: 2 Dist Diff: 0.0000 
+tick loop timer protection! to long! time:202053
+Stopping: 3 Dist Diff: 0.0000 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .10000000.00000000.00000000.00101011
+id: 0, adr: 111, cs_a: 0, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 43, sr: -2147483605, stall: 0, stst: 1
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .10000000.00000000.00000000.00101101
+id: 1, adr: 111, cs_a: 0, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 45, sr: -2147483603, stall: 0, stst: 1
+tick loop timer protection! to long! time:3224
+Stopped 2 
+Id: 2 LOST STEPS:0
+id: 2, sr: .10000000.00000000.00000000.00100101
+id: 2, adr: 111, cs_a: 0, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 37, sr: -2147483611, stall: 0, stst: 1
+tick loop timer protection! to long! time:4436
+Stopped 3 
+Id: 3 LOST STEPS:0
+id: 3, sr: .10000000.00000000.00000000.00110100
+id: 3, adr: 111, cs_a: 0, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 52, sr: -2147483596, stall: 0, stst: 1
+tick loop timer protection! to long! time:5649
+tick loop timer protection! to long! time:4415
+tick loop timer protection! to long! time:3179
+tick loop timer protection! to long! time:5656
+tick loop timer protection! to long! time:5652
+tick loop timer protection! to long! time:5652
+tick loop timer protection! to long! time:5652
+Go 0 SpeedFac:0.002708 DistDiff:-168.000000 
+Stopping: 0 Dist Diff: -0.1250 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:-0.002748 DistDiff:167.875000 
+Go 1 SpeedFac:0.003112 DistDiff:-168.000000 
+Stopping: 0 Dist Diff: 0.1188 
+Stopping: 1 Dist Diff: -0.1187 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .00000000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:0.002764 DistDiff:-167.881250 
+Go 1 SpeedFac:-0.003136 DistDiff:167.881250 
+Stopping: 1 Dist Diff: 0.1125 
+Stopping: 0 Dist Diff: -0.1125 
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .00000000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:-0.002776 DistDiff:167.893750 
+Go 1 SpeedFac:0.003136 DistDiff:-167.887500 
+Stopping: 0 Dist Diff: 0.1375 
+Stopping: 1 Dist Diff: -0.1312 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .00000000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:0.002764 DistDiff:-167.862500 
+Go 1 SpeedFac:-0.003128 DistDiff:167.868750 
+Stopping: 0 Dist Diff: -0.1312 
+Stopping: 1 Dist Diff: 0.1375 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .00000000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:-0.002756 DistDiff:167.868750 
+Stopping: 0 Dist Diff: 0.1375 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:0.002748 DistDiff:-167.868750 
+Go 1 SpeedFac:0.002752 DistDiff:-167.868750 
+Stopping: 0 Dist Diff: -0.1250 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopping: 1 Dist Diff: -0.1375 
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .00000000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Go 0 SpeedFac:-0.002764 DistDiff:167.875000 
+Go 1 SpeedFac:-0.003120 DistDiff:167.862500 
+Stopping: 0 Dist Diff: 0.1250 
+Stopping: 1 Dist Diff: 0.1250 
+Stopped 0 
+Id: 0 LOST STEPS:0
+id: 0, sr: .00000000.00010001.00000000.00000000
+id: 0, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0
+Stopped 1 
+Id: 1 LOST STEPS:0
+id: 1, sr: .00000000.00010001.00000000.00000000
+id: 1, adr: 111, cs_a: 17, fsact: 0, ola: 0, olb 0, ot: 0, otpw: 0, s2ga: 0, s2gb: 0, sg_res: 0, sr: 1114112, stall: 0, stst: 0

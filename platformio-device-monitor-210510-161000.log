@@ -1,0 +1,337 @@
+Initalize Ethernet
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+8 - 16
+9 - 17
+10 - 18
+11 - 19
+3 - 11
+1 - 9
+0 - 8
+4 - 12
+5 - 13
+6 - 14
+7 - 15
+12 - 20
+13 - 21
+14 - 22
+15 - 23
+2 - 10
+DMX Settings Init: 1 
+DMX Settings Always: 1 
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Stepper Setup Begin
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8904
+StepSize: 0.00
+Stepper setup end
+Channel Start DMX:0
+tick loop timer protection! to long! time:2805978
+tick loop timer protection! to long! time:2104637
+tick loop timer protection! to long! time:1403307
+tick loop timer protection! to long! time:701976
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+[DMX-Setting] [DIRECTION] for Stepper: 0 is now 1 got set:1 
+[DMX-Setting] [DIRECTION] for Stepper: 0 is now 0 got set:0 
+[DMX-Setting] [DIRECTION] for Stepper: 0 is now 1 got set:2 
+[DMX-Setting] [DIRECTION] for Stepper: 0 is now 0 got set:0 
+[DMX-Setting] [DIRECTION] for Stepper: 0 is now 1 got set:191 
+[DMX-Setting] [DIRECTION] for Stepper: 0 is now 0 got set:0 
+[DMX-Setting] [DIRECTION] for Stepper: 1 is now 1 got set:143 
+[DMX-Setting] [DIRECTION] for Stepper: 1 is now 0 got set:0 
+[DMX-Setting] [DIRECTION] for Stepper: 3 is now 1 got set:1 
+[DMX-Setting] [DIRECTION] for Stepper: 3 is now 0 got set:0 

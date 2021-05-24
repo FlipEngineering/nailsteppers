@@ -1,0 +1,19 @@
+DMX Settings Init: 1 
+DMX Settings Always: 1 
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Stepper Setup Begin
+[DMX-Setting] [DRIVER] MaxPos: 13440
+StepSize: 0.00
+[DMX-Setting] [DRIVER] [RUN] - Done 
+[DMX-Setting] [DRIVER] [RUN] Stepper: 3, GSTAT1 was: 00000001, result reset: 0 
+[DMX-Setting] [DRIVER] [RUN] Stepper: 3, GSTAT2 was: 00000000, result reset: 0 
+[DMX-Setting] [DRIVER] [RUN] for Stepper: 3 is now 66 
+MaxPos: 13250
+StepSize: 0.00
+[DMX-Setting] [DRIVER] [RUN] - Done 
+tick loop timer protection! to long! time:14403298
+tick loop timer protection! to long! time:14403306
+tick loop timer protection! to long! time:14403313
+tick loop timer protection! to long! time:14403321

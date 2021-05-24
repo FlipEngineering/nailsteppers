@@ -1,0 +1,91 @@
+PWM_FREQ: 1
+PWM_GRAD: 4
+PWM_AMP: 128
+TPWMTHRS: 0
+TCOOLTHRS: 1048575
+THIGH: 0
+IRUN:25 IHOLD:12 IHOLD_DELAY:0
+v_sense:1
+tbl:1 toff:2 HSTRT:0 HEND:0
+ chm:0
+ intpol:0
+ small_hys:0
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 9900
+StepSize: 0.00
+PWM_FREQ: 1
+PWM_GRAD: 4
+PWM_AMP: 128
+TPWMTHRS: 0
+TCOOLTHRS: 1048575
+THIGH: 0
+IRUN:25 IHOLD:12 IHOLD_DELAY:0
+v_sense:1
+tbl:1 toff:2 HSTRT:0 HEND:0
+ chm:0
+ intpol:0
+ small_hys:0
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 7920
+StepSize: 0.00
+PWM_FREQ: 1
+PWM_GRAD: 4
+PWM_AMP: 128
+TPWMTHRS: 0
+TCOOLTHRS: 1048575
+THIGH: 0
+IRUN:25 IHOLD:12 IHOLD_DELAY:0
+v_sense:1
+tbl:1 toff:2 HSTRT:0 HEND:0
+ chm:0
+ intpol:0
+ small_hys:0
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 7920
+StepSize: 0.00
+PWM_FREQ: 1
+PWM_GRAD: 4
+PWM_AMP: 128
+TPWMTHRS: 0
+TCOOLTHRS: 1048575
+THIGH: 0
+IRUN:25 IHOLD:12 IHOLD_DELAY:0
+v_sense:1
+tbl:1 toff:2 HSTRT:0 HEND:0
+ chm:0
+ intpol:0
+ small_hys:0
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 7920
+StepSize: 0.00
+Initalize Ethernet
+	MAC Address: 04:E9:E5:0C:FC:8D 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start DMX:0
+tick loop timer protection! to long! time:3388818
+tick loop timer protection! to long! time:2686852
+tick loop timer protection! to long! time:1984895
+tick loop timer protection! to long! time:1282939

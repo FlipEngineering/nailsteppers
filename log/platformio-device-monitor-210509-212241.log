@@ -1,0 +1,45 @@
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 1041232
+Dir1: 0 -Distance Dir1: 0.00
+Dir2: 1041232 -Distance Dir2: 13015.40
+Stall Counter: 1
+one_step_distance:(*100) 1.25
+one_rev_distance: 40
+total_steps_per_rev: 3200
+Current Direction: 1
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 9905
+Dir1: 9905 -Distance Dir1: 123.81
+Dir2: 1041232 -Distance Dir2: 13015.40
+Stall Counter: 2
+one_step_distance:(*100) 1.25
+one_rev_distance: 40
+total_steps_per_rev: 3200
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 8625
+Dir1: 9905 -Distance Dir1: 123.81
+Dir2: 8625 -Distance Dir2: 107.81
+Stall Counter: 3
+one_step_distance:(*100) 1.25
+one_rev_distance: 40
+total_steps_per_rev: 3200
+Current Direction: 1
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 5425
+Dir1: 5425 -Distance Dir1: 67.81
+Dir2: 8625 -Distance Dir2: 107.81
+Stall Counter: 4
+one_step_distance:(*100) 1.25
+one_rev_distance: 40
+total_steps_per_rev: 3200
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 4449
+Dir1: 5425 -Distance Dir1: 67.81
+Dir2: 4449 -Distance Dir2: 55.61
+Stall Counter: 5
+one_step_distance:(*100) 1.25
+one_rev_distance: 40
+total_steps_per_rev: 3200

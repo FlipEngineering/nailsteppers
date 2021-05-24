@@ -1,0 +1,26 @@
+Initalize Ethernet
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+2 - 10
+3 - 11
+0 - 8
+4 - 12
+1 - 9
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Stepper Setup Begin
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00

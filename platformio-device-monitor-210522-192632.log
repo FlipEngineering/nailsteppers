@@ -1,0 +1,35 @@
+Stopping: 0 Dist Diff: 0.0375 
+Stopping: 1 Dist Diff: 0.0187 
+Stopping: 2 Dist Diff: 0.0000 
+Stopping: 3 Dist Diff: 0.0000 
+Stopped 0 
+Stopped 1 
+Stopped 2 
+Stopped 3 
+Go 0 SpeedFac:0.002768 DistDiff:-167.962500 
+Go 1 SpeedFac:0.002548 DistDiff:-167.981250 
+Stopping: 0 Dist Diff: -0.1312 
+Stopped 0 
+Stopping: 1 Dist Diff: -0.1312 
+Stopped 1 
+Go 2 SpeedFac:0.002796 DistDiff:-168.000000 
+Go 3 SpeedFac:0.002592 DistDiff:-168.000000 
+Stopping: 2 Dist Diff: -0.1312 
+Stopped 2 
+Stopping: 3 Dist Diff: -68.2500 
+Stopped 3 
+Go 3 SpeedFac:0.006739 DistDiff:-68.193750 
+Stopping: 3 Dist Diff: -0.1125 
+Stopped 3 
+Go 0 SpeedFac:-0.002856 DistDiff:167.868750 
+Go 1 SpeedFac:-0.003208 DistDiff:167.868750 
+Go 2 SpeedFac:-0.003552 DistDiff:167.868750 
+Go 3 SpeedFac:-0.003912 DistDiff:167.887500 
+Stopping: 2 Dist Diff: 0.1500 
+Stopping: 3 Dist Diff: 0.1500 
+Stopping: 0 Dist Diff: 0.1500 
+Stopping: 1 Dist Diff: 0.1313 
+Stopped 2 
+Stopped 3 
+Stopped 0 
+Stopped 1 

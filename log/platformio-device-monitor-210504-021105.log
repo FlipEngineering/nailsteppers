@@ -1,0 +1,888 @@
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 19256
+Dir1: 0 -Distance Dir1: 0.00
+Dir2: 19256 -Distance Dir2: 96.28
+Stall Counter: 1
+one_step_distance:(*100) 0.50
+one_rev_distance: 32
+total_steps_per_rev: 6400
+Current Direction: 1
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 33216
+Dir1: 33216 -Distance Dir1: 166.08
+Dir2: 19256 -Distance Dir2: 96.28
+Stall Counter: 2
+one_step_distance:(*100) 0.50
+one_rev_distance: 32
+total_steps_per_rev: 6400
+Current Direction: 0
+stall detected! Press 1 to start again, changing direction as well
+Step Counter: 33089
+Dir1: 33216 -Distance Dir1: 166.08
+Dir2: 33089 -Distance Dir2: 165.44
+Stall Counter: 3
+one_step_distance:(*100) 0.50
+one_rev_distance: 32
+total_steps_per_rev: 6400
+Finished Calibration!
+Diff:0.64
+CurrentDir: 0
+End - Scan Distance!
+PWM_FREQ: 1
+PWM_GRAD: 4
+PWM_AMP: 128
+TPWMTHRS: 0
+TCOOLTHRS: 1048575
+THIGH: 0
+IRUN:25 IHOLD:12 IHOLD_DELAY:0
+v_sense:1
+tbl:1 toff:2 HSTRT:0 HEND:0
+ chm:0
+ intpol:0
+ small_hys:0
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8272
+StepSize: 0.00
+Initalize Ethernet
+	MAC Address: 04:E9:E5:0B:55:DD 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start DMX:0
+tick loop timer protection! to long! time:10812656
+Base:46 Step:2 Time Per Step:1.00 Artnet:402 STEPS:2
+Base:50 Step:0 Time Per Step:0.00 Artnet:406 STEPS:3
+Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:46 Step:4 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:45 Step:1 Time Per Step:0.00 Artnet:405 STEPS:4
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:46 Step:2 Time Per Step:1.00 Artnet:404 STEPS:2
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:45 Step:3 Time Per Step:3.00 Artnet:403 STEPS:1
+Base:46 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:45 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:45 Step:4 Time Per Step:2.00 Artnet:403 STEPS:2
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:45 Step:1 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:46 Step:1 Time Per Step:0.00 Artnet:405 STEPS:3
+Base:44 Step:2 Time Per Step:1.00 Artnet:403 STEPS:2
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:45 Step:2 Time Per Step:1.00 Artnet:403 STEPS:2
+Base:46 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:45 Step:3 Time Per Step:1.00 Artnet:404 STEPS:2
+Base:46 Step:2 Time Per Step:1.00 Artnet:405 STEPS:2
+Base:46 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:44 Step:2 Time Per Step:1.00 Artnet:404 STEPS:2
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:43 Step:4 Time Per Step:1.00 Artnet:405 STEPS:3
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:44 Step:2 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:46 Step:0 Time Per Step:0.00 Artnet:413 STEPS:4
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:45 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3
+Base:45 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:47 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:51 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:5
+Base:48 Step:1 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:45 Step:5 Time Per Step:1.00 Artnet:403 STEPS:4
+Base:47 Step:3 Time Per Step:0.00 Artnet:403 STEPS:5
+Base:50 Step:0 Time Per Step:0.00 Artnet:407 STEPS:5
+Base:45 Step:4 Time Per Step:1.00 Artnet:404 STEPS:4
+Base:46 Step:1 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:46 Step:1 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:50 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:45 Step:4 Time Per Step:2.00 Artnet:404 STEPS:2
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:43 Step:3 Time Per Step:1.00 Artnet:403 STEPS:2
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:50 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:45 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Base:46 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:44 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:46 Step:3 Time Per Step:3.00 Artnet:403 STEPS:1
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:45 Step:2 Time Per Step:2.00 Artnet:408 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:6
+Base:46 Step:1 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:46 Step:5 Time Per Step:0.00 Artnet:410 STEPS:7
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:8
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:8
+Base:46 Step:3 Time Per Step:0.00 Artnet:404 STEPS:8
+Base:50 Step:0 Time Per Step:0.00 Artnet:403 STEPS:8
+Base:46 Step:0 Time Per Step:0.00 Artnet:405 STEPS:8
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:7
+Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:7
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:44 Step:0 Time Per Step:0.00 Artnet:405 STEPS:4
+Base:42 Step:2 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:43 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Overshooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:50 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:45 Step:3 Time Per Step:1.00 Artnet:403 STEPS:3
+Base:45 Step:4 Time Per Step:1.00 Artnet:404 STEPS:4
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:5
+Base:45 Step:5 Time Per Step:1.00 Artnet:404 STEPS:5
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:46 Step:2 Time Per Step:0.00 Artnet:406 STEPS:5
+Base:49 Step:2 Time Per Step:0.00 Artnet:403 STEPS:5
+Base:45 Step:2 Time Per Step:0.00 Artnet:406 STEPS:5
+Base:48 Step:1 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:47 Step:1 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:5
+Base:46 Step:2 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:46 Step:2 Time Per Step:0.00 Artnet:405 STEPS:4
+Base:43 Step:2 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:44 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:47 Step:1 Time Per Step:1.00 Artnet:402 STEPS:1
+Base:46 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:46 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:47 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:46 Step:1 Time Per Step:0.00 Artnet:405 STEPS:3
+Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:5
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:6
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:7
+Base:45 Step:3 Time Per Step:0.00 Artnet:404 STEPS:9
+Base:47 Step:1 Time Per Step:0.00 Artnet:404 STEPS:10
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:9
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:9
+Base:44 Step:2 Time Per Step:0.00 Artnet:407 STEPS:8
+Base:50 Step:0 Time Per Step:0.00 Artnet:403 STEPS:8
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:44 Step:0 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:45 Step:1 Time Per Step:0.00 Artnet:405 STEPS:5
+Base:45 Step:1 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:44 Step:1 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:44 Step:2 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:45 Step:1 Time Per Step:0.00 Artnet:403 STEPS:2
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Base:44 Step:2 Time Per Step:2.00 Artnet:404 STEPS:1
+Base:44 Step:3 Time Per Step:3.00 Artnet:405 STEPS:1
+Base:44 Step:1 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:45 Step:2 Time Per Step:2.00 Artnet:403 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:46 Step:3 Time Per Step:3.00 Artnet:403 STEPS:1
+Base:44 Step:2 Time Per Step:2.00 Artnet:414 STEPS:1
+Base:44 Step:5 Time Per Step:5.00 Artnet:403 STEPS:1
+Base:45 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:44 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1
+Base:45 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:46 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:47 Step:1 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:47 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4
+Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:5
+Base:49 Step:0 Time Per Step:0.00 Artnet:406 STEPS:5
+Base:50 Step:0 Time Per Step:0.00 Artnet:405 STEPS:6
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:53 Step:0 Time Per Step:0.00 Artnet:405 STEPS:7
+Base:46 Step:1 Time Per Step:0.00 Artnet:405 STEPS:8
+Base:50 Step:0 Time Per Step:0.00 Artnet:408 STEPS:8
+Base:46 Step:2 Time Per Step:0.00 Artnet:406 STEPS:7
+Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:7
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:46 Step:2 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3
+Base:45 Step:2 Time Per Step:1.00 Artnet:403 STEPS:2
+Base:45 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Undershooting
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:5
+Base:46 Step:1 Time Per Step:0.00 Artnet:403 STEPS:5
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:45 Step:1 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:2
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:47 Step:2 Time Per Step:2.00 Artnet:403 STEPS:1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:47 Step:1 Time Per Step:1.00 Artnet:403 STEPS:1
+Base:50 Step:0 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:49 Step:2 Time Per Step:0.00 Artnet:403 STEPS:3
+Base:47 Step:1 Time Per Step:0.00 Artnet:406 STEPS:5
+Base:49 Step:3 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:50 Step:0 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:48 Step:1 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:7
+Base:45 Step:2 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:47 Step:2 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:47 Step:3 Time Per Step:3.00 Artnet:403 STEPS:1
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:47 Step:0 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:45 Step:0 Time Per Step:0.00 Artnet:406 STEPS:4
+Base:48 Step:1 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:47 Step:0 Time Per Step:0.00 Artnet:403 STEPS:8
+Base:44 Step:4 Time Per Step:0.00 Artnet:406 STEPS:7
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:8
+Base:46 Step:0 Time Per Step:0.00 Artnet:406 STEPS:7
+Base:45 Step:1 Time Per Step:0.00 Artnet:404 STEPS:5
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:47 Step:1 Time Per Step:1.00 Artnet:404 STEPS:1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Base:51 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:1
+Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:2
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:47 Step:1 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:46 Step:1 Time Per Step:0.00 Artnet:403 STEPS:8
+Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:8
+Base:50 Step:0 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:7
+Base:50 Step:0 Time Per Step:0.00 Artnet:406 STEPS:6
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:3
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:405 STEPS:1
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:1
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:2
+Base:48 Step:0 Time Per Step:0.00 Artnet:406 STEPS:3
+Base:48 Step:1 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:48 Step:21 Time Per Step:3.00 Artnet:394 STEPS:6
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:8
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:9
+Base:49 Step:1 Time Per Step:0.00 Artnet:395 STEPS:10
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:11
+Base:52 Step:0 Time Per Step:0.00 Artnet:404 STEPS:10
+Base:47 Step:0 Time Per Step:0.00 Artnet:406 STEPS:10
+Base:45 Step:2 Time Per Step:0.00 Artnet:405 STEPS:10
+Base:46 Step:0 Time Per Step:0.00 Artnet:404 STEPS:8
+Base:47 Step:0 Time Per Step:0.00 Artnet:405 STEPS:8
+Base:44 Step:1 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:45 Step:1 Time Per Step:0.00 Artnet:404 STEPS:6
+Base:44 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:42 Step:3 Time Per Step:1.00 Artnet:403 STEPS:2
+Base:43 Step:6 Time Per Step:6.00 Artnet:404 STEPS:1
+Overshooting
+Base:48 Step:0 Time Per Step:0.00 Artnet:403 STEPS:1
+Base:47 Step:2 Time Per Step:2.00 Artnet:403 STEPS:1
+Base:47 Step:1 Time Per Step:0.00 Artnet:404 STEPS:3
+Base:49 Step:2 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:48 Step:1 Time Per Step:0.00 Artnet:403 STEPS:6
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:8
+Base:47 Step:3 Time Per Step:0.00 Artnet:403 STEPS:8
+Base:50 Step:0 Time Per Step:0.00 Artnet:408 STEPS:9
+Base:51 Step:0 Time Per Step:0.00 Artnet:405 STEPS:9
+Base:48 Step:2 Time Per Step:0.00 Artnet:404 STEPS:9
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:9
+Base:49 Step:0 Time Per Step:0.00 Artnet:403 STEPS:11
+Base:49 Step:0 Time Per Step:0.00 Artnet:405 STEPS:11
+Base:50 Step:1 Time Per Step:0.00 Artnet:405 STEPS:12
+Base:49 Step:1 Time Per Step:0.00 Artnet:405 STEPS:13
+Base:51 Step:0 Time Per Step:0.00 Artnet:403 STEPS:14
+Base:48 Step:0 Time Per Step:0.00 Artnet:404 STEPS:13
+Base:45 Step:0 Time Per Step:0.00 Artnet:407 STEPS:12
+Base:45 Step:0 Time Per Step:0.00 Artnet:405 STEPS:10
+Base:45 Step:4 Time Per Step:0.00 Artnet:403 STEPS:9
+Base:42 Step:5 Time Per Step:0.00 Artnet:404 STEPS:7
+Base:42 Step:1 Time Per Step:0.00 Artnet:404 STEPS:5
+Base:43 Step:0 Time Per Step:0.00 Artnet:403 STEPS:4
+Base:49 Step:0 Time Per Step:0.00 Artnet:404 STEPS:4
+Base:42 Step:1 Time Per Step:0.00 Artnet:403 STEPS:2

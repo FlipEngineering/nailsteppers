@@ -1,0 +1,1226 @@
+Initalize Ethernet
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+8 - 16
+9 - 17
+10 - 18
+11 - 19
+3 - 11
+1 - 9
+0 - 8
+4 - 12
+5 - 13
+6 - 14
+7 - 15
+12 - 20
+13 - 21
+14 - 22
+15 - 23
+2 - 10
+DMX Settings Init: 1 
+DMX Settings Always: 1 
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Stepper Setup Begin
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8904
+StepSize: 0.00
+Stepper setup end
+Channel Start DMX:0
+tick loop timer protection! to long! time:2805997
+tick loop timer protection! to long! time:2104657
+tick loop timer protection! to long! time:1403324
+tick loop timer protection! to long! time:701994
+[DMX-Setting] [GEAR] for Stepper: 1 is now 20 got new:1 
+MaxPos: 268800
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 1 got new:6 
+MaxPos: 44688
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 6 got new:9 
+MaxPos: 29736
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 9 got new:14 
+MaxPos: 19152
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 14 got new:17 
+MaxPos: 15792
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 17 got new:20 
+MaxPos: 13440
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 20 got new:21 
+MaxPos: 12768
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 21 got new:22 
+MaxPos: 12096
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 22 got new:25 
+MaxPos: 10752
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 25 got new:22 
+MaxPos: 12096
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 22 got new:21 
+MaxPos: 12768
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 21 got new:19 
+MaxPos: 14112
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 19 got new:13 
+MaxPos: 20664
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 13 got new:9 
+MaxPos: 29736
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 9 got new:6 
+MaxPos: 44688
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 6 got new:4 
+MaxPos: 67200
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 1 is now 4 got new:1 
+MaxPos: 268800
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 30 got new:1 
+MaxPos: 268800
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 1 got new:4 
+MaxPos: 67200
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 4 got new:5 
+MaxPos: 53760
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 5 got new:8 
+MaxPos: 33600
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 8 got new:12 
+MaxPos: 22344
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 12 got new:13 
+MaxPos: 20664
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 13 got new:14 
+MaxPos: 19152
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 14 got new:15 
+MaxPos: 17808
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 15 got new:16 
+MaxPos: 16800
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 16 got new:17 
+MaxPos: 15792
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 17 got new:18 
+MaxPos: 14784
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 18 got new:19 
+MaxPos: 14112
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 19 got new:21 
+MaxPos: 12768
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 21 got new:22 
+MaxPos: 12096
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 22 got new:23 
+MaxPos: 11592
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 23 got new:24 
+MaxPos: 11088
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 24 got new:25 
+MaxPos: 10752
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 25 got new:26 
+MaxPos: 10248
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 26 got new:27 
+MaxPos: 9912
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 27 got new:28 
+MaxPos: 9576
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 28 got new:29 
+MaxPos: 9240
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 29 got new:30 
+MaxPos: 8904
+StepSize: 0.00
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 30 got new:32 
+MaxPos: 8400
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 32 got new:33 
+MaxPos: 8064
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 33 got new:34 
+MaxPos: 7896
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 34 got new:36 
+MaxPos: 7392
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 36 got new:37 
+MaxPos: 7224
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 37 got new:38 
+MaxPos: 7056
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 38 got new:40 
+MaxPos: 6720
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 40 got new:41 
+MaxPos: 6552
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 41 got new:43 
+MaxPos: 6216
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 43 got new:45 
+MaxPos: 5880
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 45 got new:46 
+MaxPos: 5712
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 46 got new:48 
+MaxPos: 5544
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 48 got new:49 
+MaxPos: 5376
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 49 got new:50 
+MaxPos: 5376
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 50 got new:51 
+MaxPos: 5208
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 51 got new:52 
+MaxPos: 5040
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 52 got new:53 
+MaxPos: 5040
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 53 got new:54 
+MaxPos: 4872
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 54 got new:55 
+MaxPos: 4872
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 55 got new:56 
+MaxPos: 4704
+StepSize: 0.00
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Undershooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 56 got new:55 
+MaxPos: 4872
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 55 got new:54 
+MaxPos: 4872
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 54 got new:53 
+MaxPos: 5040
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 53 got new:52 
+MaxPos: 5040
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 52 got new:51 
+MaxPos: 5208
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 51 got new:50 
+MaxPos: 5376
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 50 got new:48 
+MaxPos: 5544
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 48 got new:47 
+MaxPos: 5712
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 47 got new:46 
+MaxPos: 5712
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 46 got new:45 
+MaxPos: 5880
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 45 got new:44 
+MaxPos: 6048
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 44 got new:43 
+MaxPos: 6216
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 43 got new:42 
+MaxPos: 6384
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 42 got new:41 
+MaxPos: 6552
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 41 got new:40 
+MaxPos: 6720
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 40 got new:39 
+MaxPos: 6888
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 39 got new:40 
+MaxPos: 6720
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 40 got new:41 
+MaxPos: 6552
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 41 got new:39 
+MaxPos: 6888
+StepSize: 0.00
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 39 got new:38 
+MaxPos: 7056
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 38 got new:37 
+MaxPos: 7224
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 37 got new:36 
+MaxPos: 7392
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 36 got new:35 
+MaxPos: 7560
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 35 got new:34 
+MaxPos: 7896
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 34 got new:33 
+MaxPos: 8064
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 33 got new:32 
+MaxPos: 8400
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 32 got new:31 
+MaxPos: 8568
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 31 got new:30 
+MaxPos: 8904
+StepSize: 0.00
+Overshooting
+Undershooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 30 got new:31 
+MaxPos: 8568
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 31 got new:32 
+MaxPos: 8400
+StepSize: 0.00
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 32 got new:33 
+MaxPos: 8064
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 33 got new:34 
+MaxPos: 7896
+StepSize: 0.00
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 34 got new:33 
+MaxPos: 8064
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 33 got new:32 
+MaxPos: 8400
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 32 got new:31 
+MaxPos: 8568
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 31 got new:30 
+MaxPos: 8904
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 30 got new:29 
+MaxPos: 9240
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 29 got new:28 
+MaxPos: 9576
+StepSize: 0.00
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 28 got new:27 
+MaxPos: 9912
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 27 got new:26 
+MaxPos: 10248
+StepSize: 0.00
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 26 got new:25 
+MaxPos: 10752
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 25 got new:24 
+MaxPos: 11088
+StepSize: 0.00
+Overshooting
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 24 got new:23 
+MaxPos: 11592
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 23 got new:22 
+MaxPos: 12096
+StepSize: 0.00
+Overshooting
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 22 got new:21 
+MaxPos: 12768
+StepSize: 0.00
+[DMX-Setting] [GEAR] for Stepper: 3 is now 21 got new:20 
+MaxPos: 13440
+StepSize: 0.00
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Overshooting
+Undershooting
+Overshooting
+[DMX-Setting] [GEAR] for Stepper: 3 is now 20 got new:30 
+MaxPos: 8904
+StepSize: 0.00
+Overshooting
+Undershooting
+Overshooting
+Overshooting
+Undershooting
+Overshooting

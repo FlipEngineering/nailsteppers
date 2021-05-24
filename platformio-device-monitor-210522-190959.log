@@ -1,0 +1,20 @@
+Go 0 SpeedFac:0.002700 DistDiff:-168.000000 
+Go 1 SpeedFac:0.002524 DistDiff:-168.000000 
+Stopping: 0 Dist Diff: -0.1312 
+Direct Stop!
+Stopped 0 
+Stopping: 1 Dist Diff: -71.8875 
+Direct Stop!
+Stopped 1 
+Go 1 SpeedFac:0.006787 DistDiff:-71.831250 
+Stopping: 1 Dist Diff: -0.1125 
+Direct Stop!
+Stopped 1 
+Go 0 SpeedFac:-0.002760 DistDiff:167.868750 
+Go 1 SpeedFac:-0.003108 DistDiff:167.887500 
+Stopping: 0 Dist Diff: 0.1313 
+Direct Stop!
+Stopping: 1 Dist Diff: 0.1125 
+Direct Stop!
+Stopped 0 
+Stopped 1 

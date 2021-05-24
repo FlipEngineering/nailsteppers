@@ -1,0 +1,3870 @@
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+8 - 16
+9 - 17
+10 - 18
+11 - 19
+3 - 11
+1 - 9
+0 - 8
+4 - 12
+5 - 13
+6 - 14
+7 - 15
+12 - 20
+13 - 21
+14 - 22
+15 - 23
+2 - 10
+Starting looking for a DMX input:
+DMX Settings Init: 1 
+DMX Settings Always: 1 
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Fetched at least one dmx signal!
+Stepper Setup Begin
+[DMX-Setting] [DRIVER] [INIT] for Stepper: 0 is now 66 
+[DMX-Setting] [DRIVER] [INIT] - Done 
+[DMX-Setting] [MODE] [NAIL] for complete Controller is now 0 
+MaxPos: 13440
+StepSize: 0.00
+[DMX-Setting] [DRIVER] [INIT] for Stepper: 1 is now 66 
+[DMX-Setting] [DRIVER] [INIT] - Done 
+[DMX-Setting] [MODE] [NAIL] for complete Controller is now 0 
+MaxPos: 13440
+StepSize: 0.00
+[DMX-Setting] [DIRECTION] for Stepper: 1 is now 1 got set:1 
+[DMX-Setting] [DRIVER] [INIT] for Stepper: 2 is now 66 
+[DMX-Setting] [DRIVER] [INIT] - Done 
+[DMX-Setting] [MODE] [NAIL] for complete Controller is now 0 
+MaxPos: 13440
+StepSize: 0.00
+[DMX-Setting] [DIRECTION] for Stepper: 2 is now 1 got set:1 
+[DMX-Setting] [GEAR] for Stepper: 3 is now 30 got new:20 
+[DMX-Setting] [DRIVER] [INIT] for Stepper: 3 is now 66 
+[DMX-Setting] [DRIVER] [INIT] - Done 
+[DMX-Setting] [MODE] [NAIL] for complete Controller is now 0 
+MaxPos: 13440
+StepSize: 0.00
+[DMX-Setting] [DIRECTION] for Stepper: 3 is now 1 got set:1 
+Stepper setup end
+Channel Start DMX:0
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300032
+tick loop timer protection! to long! time:300039
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+C1: C2: C3: B: T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+C1: C2: C3: B: T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: B: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: B: T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2C1: C2: C3: A: 
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+C1: C2: C3: A: Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+C1: C2: C3: A: Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1C1: C2: C3: A: 
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Ovs
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+OvershootingC1: C2: C3: A: 
+T2
+Art1
+Art2
+T1C1: C2: C3: A: 
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+T1
+Overshooting
+C1: C2: C3: A: Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+Overshooting
+Overshooting
+Overshooting
+Overshooting
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: B: T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+T1
+C1: C2: C3: B: T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+C1: C2: C3: A: Art2
+Gp0 s
+Gp0 e
+Gp1 s
+Gp1 e
+Gp2 s
+Gp2 e
+Gp3 s
+Gp3 e
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+C1: C2: C3: B: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+T1
+C1: C2: C3: A: T2
+Art1
+Art2
+C1: C2: C3: A: T1
+T2
+Art1
+Art2
+C1: C2: C3: A: 

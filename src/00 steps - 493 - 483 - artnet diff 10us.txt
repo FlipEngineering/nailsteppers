@@ -1,0 +1,35 @@
+00 steps - 493 - 483 - artnet diff 10us
+           +34   +15
+10 steps - 527 - 498 - artnet diff 29us
+           +27   +18
+20 steps - 554 - 516 - artnet diff 38us
+           +31   +20
+30 steps - 585 - 536 - artnet diff 49us
+           +39   +11
+40 steps - 624 - 547 - artnet diff 77us
+          -130   -62
+00 steps - 494 - 485 - artnet diff 9us
+
+
+40st 543us
+30st 532us
+20st 516us
+10st 505us
+00st 486us
+
+01st 489-491us
+03st 492us
+08st 500 - 504us
+16st 513
+
+10us / 8st 
+
+1.25us / step
+
+40st = 50us
+
+rpm is correct so timing kinda works.
+
+at 132steps per loop 685us 
+at   0steps per loop 484us
+= 1.5us per step

@@ -1,0 +1,67 @@
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8904
+StepSize: 0.00
+Initalize Ethernet
+	MAC Address: 04:E9:E5:0C:FC:8D 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start DMX:0
+tick loop timer protection! to long! time:6385945
+tick loop timer protection! to long! time:5684629
+tick loop timer protection! to long! time:4983317
+tick loop timer protection! to long! time:4282003
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300025
+tick loop timer protection! to long! time:300020
+tick loop timer protection! to long! time:300019
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300028
+tick loop timer protection! to long! time:300028
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300028
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300026
+tick loop timer protection! to long! time:300027
+tick loop timer protection! to long! time:300029
+tick loop timer protection! to long! time:300029
+tick loop timer protection! to long! time:300030

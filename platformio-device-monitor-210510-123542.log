@@ -1,0 +1,304 @@
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 13440
+StepSize: 0.00
+ GCONF:100
+10
+1
+
+
+
+MaxPos: 8904
+StepSize: 0.00
+Initalize Ethernet
+Channel Start: 0	MAC Address: 04:E9:E5:0C:FC:8D 
+	MAC Address int: 4:233:229:12:252:141 
+	IP Address: 2.0.0.10 
+Beginning Artnet 1
+Beginning Artnet 2
+Beginning Artnet 3
+Ethernet Setup done
+Channel Start: 0 
+2 - 10
+3 - 11
+0 - 8
+1 - 9
+Channel Start DMX:0
+Added Channel:99604 to Settings Channelstick loop timer protection! to long! time:6386064
+tick loop timer protection! to long! time:5684747
+tick loop timer protection! to long! time:4983429
+tick loop timer protection! to long! time:4282112
+tick loop timer protection! to long! time:300062
+tick loop timer protection! to long! time:300053
+tick loop timer protection! to long! time:300052
+tick loop timer protection! to long! time:300050
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
+Updating ␘&�␟ on Channel 10 with value 0 
+Updating X&�␟
+ on Channel 11 with value 0 
+Updating �%�␟␅ on Channel 8 with value 0 
+Updating �%�␟␃ on Channel 9 with value 0 
